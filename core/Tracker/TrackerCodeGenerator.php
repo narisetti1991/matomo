@@ -270,6 +270,12 @@ class TrackerCodeGenerator
         // We need to parse_url to isolate hosts
         $websiteHosts = array();
         $firstHost = null;
+
+        $cleanDomain = function ($domain)
+        {
+            return preg_replace('/^(www.)/','', $domain);
+        };
+
         foreach ($websiteUrls as $site_url) {
             if (empty($site_url)) {
                 continue;
@@ -291,12 +297,12 @@ class TrackerCodeGenerator
             }
             
             if (!empty($url)) {
-                $websiteHosts[] = $url;
+                $websiteHosts[] = $cleanDomain($url);
             }
         }
         $options = '';
         if ($mergeSubdomains && !empty($firstHost)) {
-            $options .= '  _paq.push(["setCookieDomain", "*.' . $firstHost . '"]);' . "\n";
+            $options .= '  _paq.push(["setCookieDomain", "*.' . $cleanDomain($firstHost) . '"]);' . "\n";
         }
         if ($mergeAliasUrls && !empty($websiteHosts)) {
             $urls = '["*.' . implode('","*.', $websiteHosts) . '"]';
