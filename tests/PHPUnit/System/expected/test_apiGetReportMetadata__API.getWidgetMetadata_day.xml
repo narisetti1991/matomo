@@ -1968,7 +1968,7 @@
 		<uniqueId>widgetCoreHomegetDonateForm</uniqueId>
 	</row>
 	<row>
-		<name>Current Local Time in Website Timezone</name>
+		<name>Current Local Time</name>
 		<category>
 			<name>Example Widgets</name>
 			<order>99</order>

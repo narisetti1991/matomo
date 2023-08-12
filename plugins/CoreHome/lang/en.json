@@ -69,7 +69,7 @@
         "SkipToContent": "Skip to content",
         "SubscribeAndBecomePiwikSupporter": "Proceed to a secure credit card payment page (Paypal) to become a Matomo Supporter!",
         "SupportPiwik": "Support Matomo!",
-        "CurrentLocalDateTime": "Current Local Time in Website Timezone",
+        "CurrentLocalDateTime": "Current Local Time",
         "TableNoData": "No data for this table.",
         "ThereIsNoDataForThisReport": "There is no data for this report.",
         "UnFlattenDataTable": "The report is flat %s Make it hierarchical",

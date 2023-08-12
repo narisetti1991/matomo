@@ -132,7 +132,7 @@ class WidgetTest extends SystemTestCase
                         'action' => 'getDonateForm',
                     ),
             ),array (
-                'name' => 'Current Local Time in Website Timezone!',
+                'name' => 'Current Local Time',
                 'uniqueId' => 'widgetCoreHomegetCurrentLocalDateTime',
                 'parameters' =>
                     array (
