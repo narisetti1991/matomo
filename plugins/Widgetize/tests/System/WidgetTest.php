@@ -132,6 +132,14 @@ class WidgetTest extends SystemTestCase
                         'action' => 'getDonateForm',
                     ),
             ),array (
+                'name' => 'Current Local Time in Website Timezone!',
+                'uniqueId' => 'widgetCoreHomegetCurrentLocalDateTime',
+                'parameters' =>
+                    array (
+                        'module' => 'CoreHome',
+                        'action' => 'getCurrentLocalDateTime',
+                    ),
+            ),array (
                 'name' => 'Welcome!',
                 'uniqueId' => 'widgetCoreHomegetPromoVideo',
                 'parameters' =>

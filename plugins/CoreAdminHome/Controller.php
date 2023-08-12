@@ -65,6 +65,7 @@ class Controller extends ControllerAdmin
         }
 
         $hasDonateForm = $widgetsList->isDefined('CoreHome', 'getDonateForm');
+        $hasCurrentLocalDateTime = $widgetsList->isDefined('CoreHome', 'getCurrentLocalDateTime');
         $hasPiwikBlog = $widgetsList->isDefined('RssWidget', 'rssPiwik');
         $hasPremiumFeatures = $widgetsList->isDefined('Marketplace', 'getPremiumFeatures');
         $hasNewPlugins = $widgetsList->isDefined('Marketplace', 'getNewPlugins');
@@ -80,6 +81,7 @@ class Controller extends ControllerAdmin
             'hasNewPlugins' => $hasNewPlugins,
             'isFeedbackEnabled' => $isFeedbackEnabled,
             'hasDonateForm' => $hasDonateForm,
+            'hasCurrentLocalDateTime' => $hasCurrentLocalDateTime,
             'hasPiwikBlog' => $hasPiwikBlog,
             'hasDiagnostics' => $hasDiagnostics,
             'hasTrackingFailures' => $hasTrackingFailures,

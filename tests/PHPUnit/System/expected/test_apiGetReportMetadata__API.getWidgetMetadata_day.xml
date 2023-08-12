@@ -1967,4 +1967,21 @@
 		</parameters>
 		<uniqueId>widgetCoreHomegetDonateForm</uniqueId>
 	</row>
+	<row>
+		<name>Current Local Time in Website Timezone</name>
+		<category>
+			<name>Example Widgets</name>
+			<order>99</order>
+			<id>Example Widgets</id>
+		</category>
+		<subcategory />
+		<module>CoreHome</module>
+		<action>getCurrentLocalDateTime</action>
+		<order>6</order>
+		<parameters>
+			<module>CoreHome</module>
+			<action>getCurrentLocalDateTime</action>
+		</parameters>
+		<uniqueId>widgetCoreHomegetCurrentLocalDateTime</uniqueId>
+	</row>
 </result>

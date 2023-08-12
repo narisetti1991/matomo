@@ -1,0 +1,35 @@
+<div class="widgetBody systemSummary">
+    <div>
+        <span id="dateTimeSpan"></span>
+    </div>
+    <br />
+</div>
+
+<script>
+
+    $( document ).ready(function() {
+        $("#dateTimeSpan").html(format(getToday()));
+        setInterval(function(){
+        $("#dateTimeSpan").html(format(getToday()));
+        }, 1000);
+    });
+
+    function format(date) {
+        const options = { hour: 'numeric', minute: 'numeric' };
+        return $.datepicker.formatDate('yy-mm-dd ', date)+date.toLocaleTimeString([],options).toLowerCase();
+    }
+
+    function getToday() {
+        const date = new Date(Date.now());
+         // undo browser timezone
+        date.setTime(date.getTime() + date.getTimezoneOffset() * 60 * 1000);
+
+        // apply Matomo site timezone (if it exists)
+        date.setHours(date.getHours() + ((window.piwik.timezoneOffset || 0) / 3600));
+
+        // get rid of hours/minutes/seconds/etc.
+
+        date.setSeconds(0);
+        return date;
+    }
+</script>

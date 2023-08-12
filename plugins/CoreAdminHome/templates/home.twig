@@ -45,6 +45,9 @@
     {% if hasPremiumFeatures and isMarketplaceEnabled and isInternetEnabled %}
         <div vue-entry="CoreHome.WidgetLoader" widget-params="{&quot;module&quot;:&quot;Marketplace&quot;,&quot;action&quot;:&quot;getPremiumFeatures&quot;}"></div>
     {% endif %}
+    {% if hasCurrentLocalDateTime %}
+        <div vue-entry="CoreHome.WidgetLoader" widget-params="{&quot;module&quot;:&quot;Marketplace&quot;,&quot;action&quot;:&quot;getCurrentLocalDateTime&quot;}"></div>
+    {% endif %}
     {% if hasNewPlugins and isMarketplaceEnabled and isInternetEnabled %}
         <div vue-entry="CoreHome.WidgetLoader" widget-params="{&quot;module&quot;:&quot;Marketplace&quot;,&quot;action&quot;:&quot;getNewPlugins&quot;,&quot;isAdminPage&quot;: &quot;1&quot;}"></div>
     {% endif %}

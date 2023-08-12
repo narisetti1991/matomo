@@ -3704,6 +3704,26 @@
 		<isWide>0</isWide>
 	</row>
 	<row>
+		<name>Current Local Time in Website Timezone</name>
+		<category>
+			<id>About Matomo</id>
+			<name>About Matomo</name>
+			<order>99</order>
+			<icon />
+			<help />
+		</category>
+		<subcategory />
+		<module>CoreHome</module>
+		<action>getCurrentLocalDateTime</action>
+		<order>6</order>
+		<parameters>
+			<module>CoreHome</module>
+			<action>getCurrentLocalDateTime</action>
+		</parameters>
+		<uniqueId>widgetCoreHomegetCurrentLocalDateTime</uniqueId>
+		<isWide>0</isWide>
+	</row>
+	<row>
 		<name>Welcome</name>
 		<category>
 			<id>About Matomo</id>
