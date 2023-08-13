@@ -15,6 +15,7 @@
         "CloseSearch": "Zamknij wyszukiwanie",
         "CloseWidgetDirections": "Możesz zamknąć ten widżet klikając na ikonie 'X' na górze widżetu.",
         "CssDidntLoad": "Twojej przeglądarce nie udało się pobrać stylów tej strony.",
+        "CurrentLocalDateTime": "Obecny Czas Lokalny",
         "CustomLimit": "Spersonalizowany limit",
         "DataForThisReportHasBeenDisabled": "Segmentacja jest obecnie wyłączona dla tego raportu. Proszę sprawdzić %1$s w FAQ%2$s, aby uzyskać więcej szczegółów.",
         "DataForThisReportHasBeenPurged": "Dane do tego raportu są starsze niż %s miesięcy i zostały wyczyszczone.",

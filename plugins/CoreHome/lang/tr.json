@@ -15,6 +15,7 @@
         "CloseSearch": "Aramayı kapat",
         "CloseWidgetDirections": "Üst kısımdaki 'X' simgesine tıklayarak bu pano bileşenini kapatabilirsiniz.",
         "CssDidntLoad": "Tarayıcınız bu sayfanın biçemini yükleyemedi.",
+        "CurrentLocalDateTime": "Geçerli Yerel Zaman",
         "CustomLimit": "Özel sayı",
         "DataForThisReportHasBeenDisabled": "Şu anda bu rapor için dilimlere ayırma devre dışı bırakılmış. Ayrıntılı bilgi almak için %1$sbu SSS%2$s bölümüne bakabilirsiniz.",
         "DataForThisReportHasBeenPurged": "Bu raporda bulunan veriler %s ay öncesine ait olduğundan atıldı.",

@@ -15,6 +15,7 @@
         "CloseSearch": "クローズ検索",
         "CloseWidgetDirections": "このウィジェットを閉じるには、ウィジェットの上部にある ' × ' アイコンをクリックします。",
         "CssDidntLoad": "お使いのブラウザではこのページのスタイルを読み込めませんでした。",
+        "CurrentLocalDateTime": "現地の現在時刻",
         "CustomLimit": "カスタム制限",
         "DataForThisReportHasBeenDisabled": "現在、このレポートではセグメンテーションが無効になっています。 詳細については、%1$sこのFAQ%2$sを確認してください。",
         "DataForThisReportHasBeenPurged": "このレポートのデータは、%sヶ月以上経過しており、パージされています。",

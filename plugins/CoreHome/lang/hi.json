@@ -10,6 +10,7 @@
         "ClickToSeeFullInformation": "पूरी जानकारी देखने के लिए क्लिक करें",
         "CloseSearch": "खोज बंद करें",
         "CloseWidgetDirections": "आप विजेट के शीर्ष पर 'X' आइकन पर क्लिक करके इस विजेट बंद कर सकते हैं.",
+        "CurrentLocalDateTime": "वर्तमान स्थानीय समय",
         "DataForThisReportHasBeenDisabled": "इस रिपोर्ट के लिए वर्तमान में विभाजन अक्षम है। अधिक विवरण के लिए कृपया %1$sthis FAQ%2$s देखें।",
         "DataForThisReportHasBeenPurged": "इस रिपोर्ट के लिए डेटा %s महीनोंकी तुलना में अधिक पुराना है और शुद्ध किया गया है.",
         "DataTableCombineDimensions": "आयाम अलग-अलग हैं%s संयुक्त आयाम दिखाएँ",

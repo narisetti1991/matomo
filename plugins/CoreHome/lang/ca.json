@@ -15,6 +15,7 @@
         "CloseSearch": "Tancar la cerca",
         "CloseWidgetDirections": "Podeu tancar aquest giny fent clic a la icona \"X\" a la part superior del giny.",
         "CssDidntLoad": "El vostre navegador no ha pogut carregar l'estil d'aquesta pàgina.",
+        "CurrentLocalDateTime": "Hora local actual",
         "CustomLimit": "Límit personalitzat",
         "DataForThisReportHasBeenDisabled": "Actualment la segmentació està desactivada per a aquest informe. Si us plau, consulteu %1$saquest FAQ%2$s per obtenir més detalls.",
         "DataForThisReportHasBeenPurged": "La informació d'aquest informés és anterior a %s mesos d'antiguitat i s'ha purgat.",

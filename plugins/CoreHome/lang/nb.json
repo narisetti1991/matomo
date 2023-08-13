@@ -15,6 +15,7 @@
         "CloseSearch": "Lukk søk",
         "CloseWidgetDirections": "Lukk dette elementet ved å klikke på «X»-ikonet over miniprogrammet.",
         "CssDidntLoad": "Nettleseren din kunne ikke laste inn sidestilen.",
+        "CurrentLocalDateTime": "gjeldende lokal tid",
         "CustomLimit": "Egendefinert grense",
         "DataForThisReportHasBeenDisabled": "Inndeling er avskrudd for denne rapporten. Sjekk %1$softe stilte spørsmål%2$s for flere detaljer.",
         "DataForThisReportHasBeenPurged": "Dataene for denne rapporten er mer enn %s måneder gamle og har blitt fjernet.",

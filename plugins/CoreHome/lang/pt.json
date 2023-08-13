@@ -15,6 +15,7 @@
         "CloseSearch": "Fechar pesquisa",
         "CloseWidgetDirections": "Você pode fechar este widget clicando no ícone 'X' no topo.",
         "CssDidntLoad": "O seu navegador não conseguiu carregar o estilo para esta página.",
+        "CurrentLocalDateTime": "Hora Local Atual",
         "CustomLimit": "Limite personalizado",
         "DataForThisReportHasBeenDisabled": "Segmentação esta atualmente desativada para este relatório. Por favor veja %1$seste FAQ%2$s para mais detalhes.",
         "DataForThisReportHasBeenPurged": "Os dados para este relatório têm mais do que %s meses e foram limpos.",

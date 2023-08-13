@@ -3,6 +3,7 @@
         "CategoryNoData": "ไม่มีข้อมูลในประเภทนี้ พยายาม \"รวมประชากรทั้งหมด\"",
         "ChangeVisualization": "เปลี่ยน มุมมอง",
         "CheckForUpdates": "ตรวจสอบชุดอัพเดท",
+        "CurrentLocalDateTime": "เวลาท้องถิ่นปัจจุบัน",
         "Default": "ค่าเริ่มต้น",
         "ShowJSCode": "แสดงรหัส JavaScript เมื่อต้องการแทรก",
         "SupportPiwik": "สนับสนุน Matomo!",

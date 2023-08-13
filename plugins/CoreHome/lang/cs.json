@@ -15,6 +15,7 @@
         "CloseSearch": "Zavřít vyhledávání",
         "CloseWidgetDirections": "Tento widget můžete zavřít kliknutím na ikonu X v horní části widgetu.",
         "CssDidntLoad": "Vášmu prohlížeči se nepodařilo načíst styl této stránky.",
+        "CurrentLocalDateTime": "Aktuální místní čas",
         "CustomLimit": "Vlastní limit",
         "DataForThisReportHasBeenDisabled": "Segmentace je v současné době pro toto hlášení zakázaná. Další podrobnosti najdete v %1$stěchto často kladených dotazech%2$s.",
         "DataForThisReportHasBeenPurged": "Data pro toto hlášení jsou starší než %s měsíců a byla odstraněna.",

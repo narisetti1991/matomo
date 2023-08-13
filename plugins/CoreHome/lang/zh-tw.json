@@ -15,6 +15,7 @@
         "CloseSearch": "關閉搜尋",
         "CloseWidgetDirections": "你可以點擊小工具上方的「X」來關閉它。",
         "CssDidntLoad": "你的瀏覽器無法載入此頁面的樣式。",
+        "CurrentLocalDateTime": "現地當前時間",
         "CustomLimit": "自訂限制",
         "DataForThisReportHasBeenDisabled": "區隔在此報表上已停用。請參閱%1$s此 FAQ%2$s 瞭解詳情。",
         "DataForThisReportHasBeenPurged": "這份報表中的資料已經超過 %s 個月因此已被清除。",

@@ -15,6 +15,7 @@
         "CloseSearch": "Cerrar búsqueda",
         "CloseWidgetDirections": "Puede cerrar este módulo haciendo clic en el icono \"X\" de la parte superior del mismo.",
         "CssDidntLoad": "Su navegador de internet no fue capaz de cargar el estilo de esta página.",
+        "CurrentLocalDateTime": "Hora Local Actual",
         "CustomLimit": "Límite personalizado",
         "DataForThisReportHasBeenDisabled": "La segmentación está actualmente desactivada para este informe. Por favor, compruebe %1$sesta pregunta frecuente%2$s para más detalles.",
         "DataForThisReportHasBeenPurged": "Los datos para este informe tienen más de %s meses de antigüedad y han sido purgados.",

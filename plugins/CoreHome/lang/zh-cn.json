@@ -15,6 +15,7 @@
         "CloseSearch": "关闭搜索",
         "CloseWidgetDirections": "点击右上角的 'X' 图标可关闭这个小窗口。",
         "CssDidntLoad": "您的浏览器无法加载此页面的样式。",
+        "CurrentLocalDateTime": "当地当前时间",
         "CustomLimit": "自定义限制",
         "DataForThisReportHasBeenDisabled": "此报告当前已禁用分段。有关详细信息，请查看%1$s此常见问题解答%2$s。",
         "DataForThisReportHasBeenPurged": "本报表数据超过 %s 个月已被清空。",

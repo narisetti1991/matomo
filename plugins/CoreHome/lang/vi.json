@@ -4,6 +4,7 @@
         "CheckForUpdates": "Kiểm tra các bản cập nhật",
         "CheckPiwikOut": "Thủ tục thoát Matomo!",
         "CloseWidgetDirections": "Bạn có thể đóng widget này bằng cách click vào biểu tượng \"X\" ở trên cùng của các widget",
+        "CurrentLocalDateTime": "Giờ Địa Phương Hiện Tại",
         "DataForThisReportHasBeenPurged": "Các dữ liệu cho báo cáo này là nhiều hơn %s tháng và đã được loại bỏ",
         "DataTableExcludeAggregateRows": "Hàng tổng hợp hiển thị %s Hide",
         "DataTableIncludeAggregateRows": "Hàng tổng hợp hiển thị %s Show",

@@ -15,6 +15,7 @@
         "CloseSearch": "Stäng sökning",
         "CloseWidgetDirections": "Du kan stänga widgeten genom att klicka på (X) på widgetens topp.",
         "CssDidntLoad": "Din webbläsare kunde inte läsa in stilen på den här sidan.",
+        "CurrentLocalDateTime": "Aktuell Lokal Tid",
         "CustomLimit": "Anpassad begränsning",
         "DataForThisReportHasBeenDisabled": "Segmentering är för närvarande nerstängt för den här rapporten. Vänligen kolla %1$sden här FAQ'en%2$s för mer detaljer.",
         "DataForThisReportHasBeenPurged": "Data för denna rapport är mer än %s månader gammal och har tagits bort.",

@@ -15,6 +15,7 @@
         "CloseSearch": "Sulje haku",
         "CloseWidgetDirections": "Voit sulkea tämän widget-käyttöliittymän klikkaamalla \"X\"-ikonia käyttöliittymän yläreunassa.",
         "CssDidntLoad": "Selaimesi ei saanut ladattua tämän sivun tyyliä.",
+        "CurrentLocalDateTime": "Nykyinen Paikallinen Aika",
         "CustomLimit": "Muokattu rajaus",
         "DataForThisReportHasBeenPurged": "Tämän raportin data on yli %s kuukautta vanhaa ja on poistettu.",
         "DataTableExcludeAggregateRows": "Yhdistetyt rivit ovat näkyvillä %s Piilota",

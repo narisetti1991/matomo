@@ -4,6 +4,7 @@
         "CheckForUpdates": "Verifică actualizări",
         "CheckPiwikOut": "Verifica iesire Matomo (out)!",
         "CloseWidgetDirections": "Poti inchide acest widget dand click pe iconul 'X' in partea de sus a widget-ului.",
+        "CurrentLocalDateTime": "Ora Locală Curentă",
         "DataForThisReportHasBeenPurged": "Datele din acest raport sunt mai vechi decât %s luni şi au fost şterse.",
         "DataTableExcludeAggregateRows": "Randurile grupate sunt aratate %s Ascunde-le",
         "DataTableIncludeAggregateRows": "Randurile grupate sunt ascunse %s Arata-le",

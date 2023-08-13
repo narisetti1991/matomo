@@ -15,6 +15,7 @@
         "CloseSearch": "Luk søgning",
         "CloseWidgetDirections": "Luk modulet ved at klikke på 'X' ikonet øverst.",
         "CssDidntLoad": "Din browser var ikke i stand til at indlæse style for denne side.",
+        "CurrentLocalDateTime": "Aktuel lokal tid",
         "CustomLimit": "Brugerdefineret grænse",
         "DataForThisReportHasBeenPurged": "Data til rapporten er er mere end %s måneder gamle og er blevet ryddet op.",
         "DataTableCombineDimensions": "Dimensioner vises seperate %s Vis dimensioner kombineret",

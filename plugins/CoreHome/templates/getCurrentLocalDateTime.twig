@@ -16,7 +16,7 @@
 
     function format(date) {
         const options = { hour: 'numeric', minute: 'numeric', hour12: true};
-        return $.datepicker.formatDate('yy-mm-dd ', date)+date.toLocaleTimeString([],options).toUpperCase();
+        return $.datepicker.formatDate('yy-mm-dd ', date) + date.toLocaleTimeString([],options).toUpperCase();
     }
 
     function getToday() {

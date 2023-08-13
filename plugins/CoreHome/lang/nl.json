@@ -15,6 +15,7 @@
         "CloseSearch": "Sluit zoeken",
         "CloseWidgetDirections": "U kunt deze widget sluiten door op het 'X'-icoon te klikken aan de bovenkant van de widget.",
         "CssDidntLoad": "De browser kan de style van deze pagina niet laden.",
+        "CurrentLocalDateTime": "Huidige Lokale Tijd",
         "CustomLimit": "Aangepaste limiet",
         "DataForThisReportHasBeenDisabled": "Segmentatie is niet beschikbaar voor dit rapport. Zie %1$sdeze FAQ%2$s voor meer informatie.",
         "DataForThisReportHasBeenPurged": "De data voor dit rapport was meer dan %s maanden oud en is reeds opgeschoond.",

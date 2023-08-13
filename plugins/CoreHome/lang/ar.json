@@ -11,6 +11,7 @@
         "ClickToEditX": "إضغط لتحرير %s",
         "CloseSearch": "إغلاق البحث",
         "CloseWidgetDirections": "يمكنك إغلاق عنصر الواجهة هذا بالضغط على علامة 'X' أعلى العنصر.",
+        "CurrentLocalDateTime": "التوقيت المحلي الحالي",
         "DataForThisReportHasBeenPurged": "بيانات هذا التقرير أقدم من %s شهور وتم التخلص منها.",
         "DataTableExcludeAggregateRows": "صفوف الإجمالي معروضة، %s اخفها",
         "DataTableHowToSearch": "إضغط إدخال أو اضغط على رمز البحث لتبحث",
